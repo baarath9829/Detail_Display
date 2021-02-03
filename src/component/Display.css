@@ -1,0 +1,18 @@
+.Display {
+    width : 100%;
+    max-width: 80%;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-top: 2%;
+  }
+.Form {
+    width : 100%;
+    padding: 15px;
+    margin: auto;
+}
+.Table {
+    padding: 15px;
+    margin: auto;
+    margin-top: 2%;
+}
